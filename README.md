@@ -6,20 +6,10 @@
 
 ### To run: clone the repo, set up a Twilio account, update the phone number in MainActivity.java, build the app in Android Studio, and browse away!
 
+### Screenshots: request a webpage, see the SMS conversation in your default messaging app, and see the rendered webpage.
 
-### Request a webpage:
-<kbd>
-<img src="imgs/main_page.png" height="400" />
-</kbd>
+<img align="left" src="imgs/main_page.png" height="400" />
 
+<img align="left" src="imgs/incoming_sms.png" height="400" />
 
-### See the SMS being sent and received in your regular messaging app:
-<kbd>
-<img src="imgs/incoming_sms.png" height="400" />
-</kbd>
-
-
-### See the webpage!
-<kbd>
-<img src="imgs/rendered_webpage.png" height="400" />
-</kbd>  
+<img align="left" src="imgs/rendered_webpage.png" height="400" />
